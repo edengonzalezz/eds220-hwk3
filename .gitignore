@@ -1,5 +1,8 @@
 .OTTER_LOG
 
+data/tl_2026_us_county/
+data/q5d_df.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
