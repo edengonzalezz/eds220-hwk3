@@ -2,6 +2,7 @@
 
 data/tl_2026_us_county/
 data/q5d_df.csv
+data/Spill_Incidents_20261102.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
